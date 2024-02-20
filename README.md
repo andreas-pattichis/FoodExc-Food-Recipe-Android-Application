@@ -90,6 +90,6 @@ Contributors ✨
     <td align="center"><a href="https://github.com/Kasoulides"><img src="https://avatars.githubusercontent.com/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br/><sub><b>Christos Kasoulides</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/nstavr04"><img src="https://avatars.githubusercontent.com/u/60655570?v=4/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikolas Stavrou</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/celeft01"><img src="https://avatars.githubusercontent.com/u/63289367?v=4/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christos Eleftheriou</b></sub></a><br /></td>
-  <td align="center"><a href="https://github.com/apatti01"><img src="https://avatars.githubusercontent.com/u/63289392?v=4/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andreas Pattichis</b></sub></a><br /></td>
+  <td align="center"><a href="https://github.com/andreas-pattichis"><img src="https://avatars.githubusercontent.com/u/63289392?v=4/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andreas Pattichis</b></sub></a><br /></td>
   </tr>
 </table>
