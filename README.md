@@ -93,4 +93,3 @@ Contributors ✨
   <td align="center"><a href="https://github.com/apatti01"><img src="https://avatars.githubusercontent.com/u/63289392?v=4/u/63290952?v=4/u/43705455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andreas Pattichis</b></sub></a><br /></td>
   </tr>
 </table>
-  
